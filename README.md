@@ -59,3 +59,24 @@ To flash:
 The switches are wired directly to pins **D10, D9, D8** and GND, using internal pull-ups.
 
 ## Repository structure
+
+    abeers-macropad/
+    ├── README.md
+    ├── CAD/
+    │   └── assembled-model.STEP
+    ├── PCB/
+    │   ├── my_first_ever_ship.kicad_pro
+    │   ├── my_first_ever_ship.kicad_sch
+    │   └── my_first_ever_ship.kicad_pcb
+    ├── Firmware/
+    │   └── main.py
+    ├── production/
+    │   ├── gerbers.zip
+    │   ├── Top.STEP
+    │   ├── Bottom.STEP
+    │   └── main.py
+    └── screenshots/
+        ├── render.png
+        ├── schematic.png
+        ├── pcb.png
+        └── case.png
