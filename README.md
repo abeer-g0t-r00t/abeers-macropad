@@ -36,16 +36,16 @@ A custom 3-key macropad built from scratch — PCB, case, and firmware — as pa
 
 ## Bill of Materials (BOM)
 
-| Component | Qty | Notes |
-|-----------|-----|-------|
-| Seeed XIAO RP2040 | 1 | Microcontroller |
-| MX-style mechanical switch | 3 | One per key |
-| DSA keycap (blank) | 3 | |
-| M3 × 16 mm screw | 4 | Holds the sandwich together |
-| M3 heatset insert (M3×5×4mm) | 4 | Seated in the bottom shell |
-| 3D-printed case (top plate) | 1 | Top.STEP |
-| 3D-printed case (bottom shell) | 1 | Bottom.STEP |
-| Custom PCB | 1 | 2-layer, ~27 × 61 mm |
+| Component | Qty | Source |
+|-----------|-----|--------|
+| Seeed XIAO RP2040 microcontroller | 1 | Kit |
+| MX-style mechanical switch | 3 | Kit |
+| Blank DSA keycap | 3 | Kit |
+| M3 × 16 mm screw | 4 | Kit |
+| M3 × 5 × 4 mm heatset insert | 4 | Kit |
+| Custom PCB (2-layer, ~27 × 61 mm) | 1 | JLCPCB |
+| 3D-printed top plate (Top.STEP) | 1 | Printing Legion |
+| 3D-printed bottom shell (Bottom.STEP) | 1 | Printing Legion |
 
 ## Firmware
 
