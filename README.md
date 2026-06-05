@@ -47,7 +47,7 @@ A custom 3-key macropad built from scratch — PCB, case, and firmware — as pa
 | 3D-printed top plate (Top.STEP) | 1 | Printing Legion |
 | 3D-printed bottom shell (Bottom.STEP) | 1 | Printing Legion |
 
-## Firmware
+## Firmwar
 
 Firmware is written in **KMK** (runs on CircuitPython).
 
